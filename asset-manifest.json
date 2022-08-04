@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-useStateweb/static/css/main.ee27faba.css",
+    "main.js": "/React-useStateweb/static/js/main.9aa929d8.js",
+    "index.html": "/React-useStateweb/index.html",
+    "main.ee27faba.css.map": "/React-useStateweb/static/css/main.ee27faba.css.map",
+    "main.9aa929d8.js.map": "/React-useStateweb/static/js/main.9aa929d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee27faba.css",
+    "static/js/main.9aa929d8.js"
+  ]
+}
